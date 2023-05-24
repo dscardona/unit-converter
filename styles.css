@@ -9,5 +9,19 @@ body {
     color: white;
     height: 285px;
     width: 550px;
-    margin: 30px auto;
+    margin: 30px auto 0px;
+}
+
+.main {
+    width: 550px;
+    height: 444px;
+    background-color: #F4F4F4;
+    margin: 0px auto 30px;;
+}
+
+.result-section {
+    background-color: white;
+    height: 109px;
+    width: 500px;
+    margin: 36px auto 23px; 
 }
