@@ -10,6 +10,32 @@ body {
     height: 285px;
     width: 550px;
     margin: 30px auto 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+input {
+    height: 83px;
+    width: 117px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background-color: #6943FF;
+    color: inherit;
+    font-size: 58px;
+    font-weight: 900;
+    text-align: center;
+}
+
+button {
+    height: 42px;
+    width: 117px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+
 }
 
 .main {
@@ -23,5 +49,5 @@ body {
     background-color: white;
     height: 109px;
     width: 500px;
-    margin: 36px auto 23px; 
+    margin: 36px auto 23px;
 }
